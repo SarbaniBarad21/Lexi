@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+chromadb
+huggingface-hub
+pdfplumber
+scikit-learn
+python-docx
+google-generativeai
+pydantic
+python-multipart
+requests
+numpy
+pillow
+pypdf
+streamlit
